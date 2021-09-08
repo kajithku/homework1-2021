@@ -3,7 +3,7 @@ Make the font larger too.*/
 body{
 	margin:1%;
 	padding:1%;
-	font-size:150%;
+	font-size:140%;
 }
 
 
@@ -46,7 +46,7 @@ header, nav, main, h1, footer{
 items in the nav section*/
 nav li{
 	/* background-color: #ECFF4D; */
-	background-color: lightgray;
+	background-color: #ECFF4D;
 	padding:10px;
 	width:25%;
 	border:1px solid black;
